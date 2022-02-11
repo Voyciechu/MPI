@@ -1,4 +1,4 @@
-// Zbiór Mandelbrota - MPI - C++
+// ZbiÃ³r Mandelbrota - MPI - C++
 // Uzywane polecenie do kompilacji pliku: mpicxx kolokwium.cpp
 // Uzywane polecenie do uruchamiania programu: mpiexec -np 6 --hostfile nodes.txt ./a.out
 // Wejscie: mandelbrot.in
